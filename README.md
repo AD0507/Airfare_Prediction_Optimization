@@ -1,7 +1,8 @@
 ## Project Overview
 The airline industry operates in a dynamic market where airfares fluctuate based on real-time demand, seasonal trends, competitive pricing, fuel costs, and other factors. This project, "Airfare Prediction and Optimization with PySpark," aims to:
-  -1. Develop a predictive model to anticipate airfare fluctuations, helping travelers make informed booking decisions.
-  -2. Explore optimization strategies for airlines to maximize revenue by dynamically adjusting prices based on predicted demand.
+  - Develop a predictive model to anticipate airfare fluctuations, helping travelers make informed booking decisions.
+  - Explore optimization strategies for airlines to maximize revenue by dynamically adjusting prices based on predicted demand.
+    
 Due to the large-scale nature of airfare data, we leverage Apache Spark and PySpark for data processing, feature engineering, and machine learning model training.
 
 ## Project Goals
